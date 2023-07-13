@@ -26,8 +26,4 @@ def minOperations(n):
         else:
             now += start
             counter += 1
-<<<<<<< HEAD
     return counter
-=======
-    return counter
->>>>>>> dbd1b1513100c1e8f3832a1fd16601a41f3fd673
